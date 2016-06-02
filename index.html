@@ -1,37 +1,23 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>eleanor graham || light to light</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<meta name="robots" content="noindex,nofollow">
-	<style type= "text/css">
-body {
-background-color: #fff ;
-background-image: url("images/blooms.jpg"); background-repeat: no-repeat;
-font: 14px/21px "georgia", serif;
-font-weight: bold;
-color: #700;
-}
-a { color: #eb6e52; text-decoration: underline; }
-a:hover { color: #f79d05; }
-div.content {margin: 100px; background-color: #fff; opacity: .6; max-width: 777px;}
-div.content p { position: relative; margin: 20px;} h1 { position: relative; top: 20px; left: 20px; bottom: 20px;}
-</style>
-</head>
-<body>
-	<div class="content">
-	<p><h1>Hello, Beauty.</h1></p>
-	<br>
-	<p>It's springtime here.</p>
-	<p>Growth, change, transformation.</p>
-	<p>And more movement under the surface than what you might see aboveground.</p>
-	<p>If you'd like to get in touch in the meantime, pop a note in my <a href="mailto:eleanorcjkgraham@gmail.com">mailbox</a>. I will peek in there from time to time.</p>
-	<p>- - - - - - - - -</p>
-	<p>Palms on the ground, sending love.</p>
-	<p>xo, eleanor</p>
-	<br>
-	<br>
-	<br>
-	</div>
-</body>
-</html>
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
