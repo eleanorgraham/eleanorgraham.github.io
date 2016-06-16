@@ -4,11 +4,38 @@
     <title>Eleanor Graham</title>
     <description>I&#39;m learning things. You can join me. 
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Jun 2016 11:20:18 -0400</pubDate>
-    <lastBuildDate>Thu, 02 Jun 2016 11:20:18 -0400</lastBuildDate>
+    <link>http://eleanorgraham.com/</link>
+    <atom:link href="http://eleanorgraham.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 15 Jun 2016 21:54:13 -0400</pubDate>
+    <lastBuildDate>Wed, 15 Jun 2016 21:54:13 -0400</lastBuildDate>
     <generator>Jekyll v3.1.3</generator>
+    
+      <item>
+        <title>why dev?</title>
+        <description>&lt;div class=&quot;photos&quot;&gt;
+
+&lt;img src=&quot;https://c3.staticflickr.com/8/7293/27420668330_96666a0036.jpg&quot; class=&quot;img-half&quot; alt=&quot;Split Screen&quot; /&gt;
+&lt;img src=&quot;https://c8.staticflickr.com/8/7417/27088517983_673fb73372.jpg&quot; class=&quot;img-half&quot; alt=&quot;Lucy with book in box&quot; /&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&quot;why-did-i-decide-to-learn-software-development&quot;&gt;Why did I decide to learn software development?&lt;/h2&gt;
+
+&lt;p&gt;One answer is that it feels good. My particular blend of curiosity, creativity, and analytical thought lends itself to the puzzles of a developer.&lt;/p&gt;
+
+&lt;p&gt;The next answer is that I am a mother. Not only that — I am mother to a young daughter. I want to participate in shaping her world. I can show her what it looks like to challenge myself, learn, and grow. I can show her that we can do more than be passive users of technolgy; we can build and shape it. I can show her that diversity matters. I can help her learn to write her own narrative.&lt;/p&gt;
+
+&lt;p&gt;Finally, I want to feel satisfied at the end of the day. I want to know the I’ve collaborated and accomplished something I care about. I want to love my work and have it support my family. I think I can find that in software development. So I’m learning.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 15 Jun 2016 20:40:19 -0400</pubDate>
+        <link>http://eleanorgraham.com/learn-log/2016/06/15/why-dev.html</link>
+        <guid isPermaLink="true">http://eleanorgraham.com/learn-log/2016/06/15/why-dev.html</guid>
+        
+        
+        <category>learn-log</category>
+        
+      </item>
     
       <item>
         <title>We&#39;re Live!</title>
@@ -28,8 +55,8 @@
 
 </description>
         <pubDate>Thu, 02 Jun 2016 09:40:19 -0400</pubDate>
-        <link>http://localhost:4000/learn-log/2016/06/02/live.html</link>
-        <guid isPermaLink="true">http://localhost:4000/learn-log/2016/06/02/live.html</guid>
+        <link>http://eleanorgraham.com/learn-log/2016/06/02/live.html</link>
+        <guid isPermaLink="true">http://eleanorgraham.com/learn-log/2016/06/02/live.html</guid>
         
         
         <category>learn-log</category>
@@ -52,8 +79,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 15 May 2016 22:04:19 -0400</pubDate>
-        <link>http://localhost:4000/liberty-house/2016/05/15/making-art.html</link>
-        <guid isPermaLink="true">http://localhost:4000/liberty-house/2016/05/15/making-art.html</guid>
+        <link>http://eleanorgraham.com/liberty-house/2016/05/15/making-art.html</link>
+        <guid isPermaLink="true">http://eleanorgraham.com/liberty-house/2016/05/15/making-art.html</guid>
         
         
         <category>liberty-house</category>
@@ -73,8 +100,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 14 May 2016 20:16:19 -0400</pubDate>
-        <link>http://localhost:4000/liberty-house/2016/05/14/in-the-garden.html</link>
-        <guid isPermaLink="true">http://localhost:4000/liberty-house/2016/05/14/in-the-garden.html</guid>
+        <link>http://eleanorgraham.com/liberty-house/2016/05/14/in-the-garden.html</link>
+        <guid isPermaLink="true">http://eleanorgraham.com/liberty-house/2016/05/14/in-the-garden.html</guid>
         
         
         <category>liberty-house</category>
@@ -90,8 +117,8 @@
 &lt;p&gt;So. Here we go.&lt;/p&gt;
 </description>
         <pubDate>Wed, 11 May 2016 20:40:19 -0400</pubDate>
-        <link>http://localhost:4000/learn-log/2016/05/11/day-two.html</link>
-        <guid isPermaLink="true">http://localhost:4000/learn-log/2016/05/11/day-two.html</guid>
+        <link>http://eleanorgraham.com/learn-log/2016/05/11/day-two.html</link>
+        <guid isPermaLink="true">http://eleanorgraham.com/learn-log/2016/05/11/day-two.html</guid>
         
         
         <category>learn-log</category>
@@ -103,8 +130,8 @@
         <description>&lt;p&gt;Testing out Jekyll… I expect to go back and add more blog content later – for now, I’d just like to see how all of this works! Wish me luck!&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 May 2016 20:40:19 -0400</pubDate>
-        <link>http://localhost:4000/learn-log/2016/05/10/hello-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/learn-log/2016/05/10/hello-jekyll.html</guid>
+        <link>http://eleanorgraham.com/learn-log/2016/05/10/hello-jekyll.html</link>
+        <guid isPermaLink="true">http://eleanorgraham.com/learn-log/2016/05/10/hello-jekyll.html</guid>
         
         
         <category>learn-log</category>
