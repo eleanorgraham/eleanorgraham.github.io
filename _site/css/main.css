@@ -12,8 +12,8 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #111;
-  background-color: #fdfdfd;
+  color: #555;
+  background-color: #eee;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -66,12 +66,12 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #2a7ae2;
+  color: #006622;
   text-decoration: none; }
   a:visited {
-    color: #1756a9; }
+    color: #001a09; }
   a:hover {
-    color: #111;
+    color: #555;
     text-decoration: underline; }
 
 /**
@@ -151,6 +151,7 @@ pre {
   border-top: 5px solid #424242;
   border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
+  background: #fff;
   position: relative; }
 
 .site-title {
@@ -169,7 +170,7 @@ pre {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #111;
+    color: #555;
     line-height: 1.5; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
@@ -178,7 +179,7 @@ pre {
       position: absolute;
       top: 9px;
       right: 15px;
-      background-color: #fdfdfd;
+      background-color: #eee;
       border: 1px solid #e8e8e8;
       border-radius: 5px;
       text-align: right; }
@@ -213,7 +214,8 @@ pre {
  */
 .site-footer {
   border-top: 1px solid #e8e8e8;
-  padding: 30px 0; }
+  padding: 30px 0;
+  background: #fff; }
 
 .footer-heading {
   font-size: 18px;
