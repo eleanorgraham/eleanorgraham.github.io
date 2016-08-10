@@ -3,7 +3,9 @@ layout: post
 title:  "Framing"
 date:   2016-08-08 15:28:12 -0400
 categories: learn-log
-tags: tech, parenting
+tags:
+- tech
+- parenting
 ---
 # Parenting || Programming...
 

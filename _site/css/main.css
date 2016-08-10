@@ -317,6 +317,14 @@ pre {
       .post-content h4 {
         font-size: 18px; } }
 
+.post-tags {
+  color: #006622;
+  display: inline-block;
+  margin-bottom: .25em; }
+  .post-tags:hover {
+    color: rgba(0, 102, 34, 0.5);
+    text-decoration: none; }
+
 /**
  * Syntax highlighting styles
  */

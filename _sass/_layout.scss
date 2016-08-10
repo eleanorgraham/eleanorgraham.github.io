@@ -242,3 +242,15 @@
         }
     }
 }
+
+.post-tags {
+  color: $brand-color;
+  display: inline-block;
+  margin-bottom: .25em;
+
+  &:hover {
+    color: rgba($brand-color, .5);
+    text-decoration: none;
+  }
+
+}
