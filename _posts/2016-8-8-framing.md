@@ -5,6 +5,7 @@ date:   2016-08-08 15:28:12 -0400
 categories: learn-log
 tags:
 - tech
+- learn-log
 - parenting
 ---
 # Parenting || Programming...

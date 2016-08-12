@@ -3,6 +3,13 @@ layout: post
 title:  "The Texture of Home"
 date:   2016-08-3 13:40:19 -0400
 categories: topography
+tags:
+- tech
+- maps
+- Mapbox
+- learn-log
+- stories
+- home
 ---
 
 

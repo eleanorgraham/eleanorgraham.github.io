@@ -6,8 +6,8 @@
 </description>
     <link>http://eleanorgraham.com/</link>
     <atom:link href="http://eleanorgraham.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Aug 2016 10:44:31 -0400</pubDate>
-    <lastBuildDate>Wed, 10 Aug 2016 10:44:31 -0400</lastBuildDate>
+    <pubDate>Thu, 11 Aug 2016 20:34:46 -0400</pubDate>
+    <lastBuildDate>Thu, 11 Aug 2016 20:34:46 -0400</lastBuildDate>
     <generator>Jekyll v3.1.3</generator>
     
       <item>
@@ -40,6 +40,8 @@
         
         <category>tech</category>
         
+        <category>learn-log</category>
+        
         <category>parenting</category>
         
         
@@ -68,6 +70,18 @@
         <pubDate>Wed, 03 Aug 2016 13:40:19 -0400</pubDate>
         <link>http://eleanorgraham.com/topography/texture-of-home/</link>
         <guid isPermaLink="true">http://eleanorgraham.com/topography/texture-of-home/</guid>
+        
+        <category>tech</category>
+        
+        <category>maps</category>
+        
+        <category>Mapbox</category>
+        
+        <category>learn-log</category>
+        
+        <category>stories</category>
+        
+        <category>home</category>
         
         
         <category>topography</category>
@@ -100,6 +114,16 @@
         <link>http://eleanorgraham.com/topography/maps/</link>
         <guid isPermaLink="true">http://eleanorgraham.com/topography/maps/</guid>
         
+        <category>tech</category>
+        
+        <category>maps</category>
+        
+        <category>Mapbox</category>
+        
+        <category>learn-log</category>
+        
+        <category>stories</category>
+        
         
         <category>topography</category>
         
@@ -127,6 +151,14 @@
         <pubDate>Fri, 22 Jul 2016 10:40:19 -0400</pubDate>
         <link>http://eleanorgraham.com/learn-log/diversity/</link>
         <guid isPermaLink="true">http://eleanorgraham.com/learn-log/diversity/</guid>
+        
+        <category>tech</category>
+        
+        <category>diversity</category>
+        
+        <category>women</category>
+        
+        <category>collaboration</category>
         
         
         <category>learn-log</category>
@@ -180,6 +212,14 @@
         <link>http://eleanorgraham.com/learn-log/i-love-amethyst/</link>
         <guid isPermaLink="true">http://eleanorgraham.com/learn-log/i-love-amethyst/</guid>
         
+        <category>tech</category>
+        
+        <category>learn-log</category>
+        
+        <category>Amethyst</category>
+        
+        <category>tools</category>
+        
         
         <category>learn-log</category>
         
@@ -194,13 +234,19 @@
 
 &lt;p&gt;One answer is that it feels good. My particular blend of curiosity, creativity, and analytical thought lends itself to the puzzles of a developer.&lt;/p&gt;
 
-&lt;p&gt;The next answer is that I am a mother. Not only that — I am mother to a young daughter. I want to participate in shaping her world. I can show her what it looks like to challenge myself, learn, and grow. I can show her that we can do more than be passive users of technolgy; we can build and shape it. I can show her that diversity matters. I can help her learn to write her own narrative.&lt;/p&gt;
+&lt;p&gt;The next answer is that I am a mother. Not only that — I am mother to a young daughter. I want to participate in shaping her world. I can show her what it looks like to challenge myself, learn, and grow. I can show her that we can do more than be passive users of technology; we can build and shape it. I can show her that diversity matters. I can help her learn to write her own narrative.&lt;/p&gt;
 
 &lt;p&gt;Finally, I want to feel satisfied at the end of the day. I want to know the I’ve collaborated and accomplished something I care about. I want to love my work and have it support my family. I think I can find that in software development. So I’m learning.&lt;/p&gt;
 </description>
         <pubDate>Wed, 15 Jun 2016 20:40:19 -0400</pubDate>
         <link>http://eleanorgraham.com/learn-log/why-dev/</link>
         <guid isPermaLink="true">http://eleanorgraham.com/learn-log/why-dev/</guid>
+        
+        <category>learn-log</category>
+        
+        <category>tech</category>
+        
+        <category>parenting</category>
         
         
         <category>learn-log</category>
@@ -222,11 +268,18 @@
 
 &lt;h2 id=&quot;today&quot;&gt;Today&lt;/h2&gt;
 &lt;p&gt;And here we are today. Jekyll up and running. I am buzzing with ideas of how I want to modify and build this space. It feels good and creative.&lt;/p&gt;
-
 </description>
         <pubDate>Thu, 02 Jun 2016 09:40:19 -0400</pubDate>
         <link>http://eleanorgraham.com/learn-log/live/</link>
         <guid isPermaLink="true">http://eleanorgraham.com/learn-log/live/</guid>
+        
+        <category>learn-log</category>
+        
+        <category>tech</category>
+        
+        <category>Jekyll</category>
+        
+        <category>publishing</category>
         
         
         <category>learn-log</category>
@@ -247,6 +300,14 @@
         <link>http://eleanorgraham.com/liberty-house/making-art/</link>
         <guid isPermaLink="true">http://eleanorgraham.com/liberty-house/making-art/</guid>
         
+        <category>parenting</category>
+        
+        <category>home</category>
+        
+        <category>art</category>
+        
+        <category>music</category>
+        
         
         <category>liberty-house</category>
         
@@ -263,6 +324,14 @@
         <pubDate>Sat, 14 May 2016 20:16:19 -0400</pubDate>
         <link>http://eleanorgraham.com/liberty-house/in-the-garden/</link>
         <guid isPermaLink="true">http://eleanorgraham.com/liberty-house/in-the-garden/</guid>
+        
+        <category>parenting</category>
+        
+        <category>home</category>
+        
+        <category>garden</category>
+        
+        <category>haiku</category>
         
         
         <category>liberty-house</category>

@@ -3,6 +3,11 @@ layout: post
 title:  "I love Amethyst"
 date:   2016-07-06 10:40:19 -0400
 categories: learn-log
+tags:
+- tech
+- learn-log
+- Amethyst
+- tools
 ---
 ## Adventures with an automatic tiling window manager
 
