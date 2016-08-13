@@ -254,3 +254,35 @@
   }
 
 }
+
+@mixin breakpoint($point) {
+  @if $point == gt-mobile {
+    @media (min-width: 30em) { @content; }
+  } @else if $point == mobile {
+    @media (max-width: 30em) { @content; }
+  }
+}
+
+.hide-small {
+  @include breakpoint(mobile) {
+    display: none;
+  }
+}
+
+.tags-columns {
+
+  @extend .hide-small;
+  -moz-columns: 4 150px;
+  -webkit-columns: 4 150px;
+  columns: 4 150px;
+  font-size: $small-font-size;
+  margin-bottom: 2em;
+
+  ul {
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+
+  li { -webkit-column-break-inside: avoid;}
+
+}
