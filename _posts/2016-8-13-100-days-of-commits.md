@@ -9,6 +9,7 @@ tags:
 - 100-days-of-commits
 - women-who-code
 ---
+![Commits](https://c2.staticflickr.com/9/8522/28946125041_e0c371b160_c.jpg)
 
 I learned about [100 Days of Commits](https://medium.com/@WomenWhoCodeDC/100-days-of-commits-60af0abe8825#.mflpf9vke) just a few days before it began. I decided to join in without giving it much thought. Now, 13 days in, I'd like to reflect a bit.
 
