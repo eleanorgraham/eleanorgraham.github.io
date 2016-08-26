@@ -6,9 +6,37 @@
 </description>
     <link>http://eleanorgraham.com/</link>
     <atom:link href="http://eleanorgraham.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 Aug 2016 10:23:45 -0400</pubDate>
-    <lastBuildDate>Tue, 16 Aug 2016 10:23:45 -0400</lastBuildDate>
+    <pubDate>Fri, 26 Aug 2016 10:12:58 -0400</pubDate>
+    <lastBuildDate>Fri, 26 Aug 2016 10:12:58 -0400</lastBuildDate>
     <generator>Jekyll v3.1.3</generator>
+    
+      <item>
+        <title>Dry Eloquence</title>
+        <description>&lt;h1 id=&quot;dry-dont-repeat-yourself&quot;&gt;DRY: Don’t Repeat Yourself.&lt;/h1&gt;
+&lt;p&gt;Programmers talk about the virtues of DRY code, as opposed to WET (We Enjoy Typing! Write Everything Twice!). The virtue goes beyond funny acronyms: code that eliminates unnecessary repetition is easier for an outsider to read and understand. It’s also easier to extend functionality as the program grows.&lt;/p&gt;
+
+&lt;h1 id=&quot;understanding-vs-doing&quot;&gt;Understanding vs Doing&lt;/h1&gt;
+&lt;p&gt;Understanding the value of writing DRY code, and actually doing it are two different things. Although I long for simple and eloquent code, usually my first solutions are anything but DRY. And this may be a good thing.&lt;/p&gt;
+
+&lt;p&gt;When I was in high school I remember a math teacher getting frustrated with me for not writing enough steps in my solutions - “Show your work!” Some of the steps seemed so simple I couldn’t bring myself to write them down – I could already see several steps ahead, and at the time I felt embarrassed to show such elementary ‘extra’ work. Not only did I frustrate my teacher with this stubbornness, but I made things more difficult for myself: when things didn’t turn out as planned, it was harder to catch mistakes in the assumptions that I had left unwritten.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-wet-road-to-dry&quot;&gt;The (WET) road to DRY&lt;/h1&gt;
+&lt;p&gt;When I try getting too far ahead of myself with coding I end up tangling things up. If I can allow myself to ‘write everything twice’ just to get initial tests passing, I usually have a much easier time simplifying from there. Starting out WET is only a problem if you never dry off.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 26 Aug 2016 09:28:12 -0400</pubDate>
+        <link>http://eleanorgraham.com/learn-log/dry-eloquence/</link>
+        <guid isPermaLink="true">http://eleanorgraham.com/learn-log/dry-eloquence/</guid>
+        
+        <category>tech</category>
+        
+        <category>learn-log</category>
+        
+        <category>technique</category>
+        
+        
+        <category>learn-log</category>
+        
+      </item>
     
       <item>
         <title>100 Days of Commits</title>
@@ -342,31 +370,6 @@
         <category>art</category>
         
         <category>music</category>
-        
-        
-        <category>liberty-house</category>
-        
-      </item>
-    
-      <item>
-        <title>In the Garden</title>
-        <description>&lt;p&gt;My girl makes mud soup
-&lt;br /&gt;dirt in her hair, she explores
-&lt;br /&gt;our garden, the world&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7350/26948610091_c04b4c1371_z.jpg&quot; alt=&quot;Garden&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 14 May 2016 20:16:19 -0400</pubDate>
-        <link>http://eleanorgraham.com/liberty-house/in-the-garden/</link>
-        <guid isPermaLink="true">http://eleanorgraham.com/liberty-house/in-the-garden/</guid>
-        
-        <category>parenting</category>
-        
-        <category>home</category>
-        
-        <category>garden</category>
-        
-        <category>haiku</category>
         
         
         <category>liberty-house</category>
