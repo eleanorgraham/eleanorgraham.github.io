@@ -25,5 +25,3 @@ I also challenged myself to write some tests for the first time, which was great
 
 ## Good Enough
 One of the things that keeps me interested in coding is the seemingly endless possibilities for improvement. Once I start thinking about a puzzle I have a hard time putting it down; I keep turning it over and over, polishing, refining. So, although I’m calling this gem ‘ready’ I have ideas for things I could improve, should the time and desire present itself. I also have a bundle of ideas for other projects that I feel ready to take on in the wake of this success. It feels good to say that what I’ve created is good enough and release it into the world.
-
-<iframe width="420" height="315" src="http://eleanorgraham.com/images/hiking_guide_walkthrough.mov" frameborder="0"> </iframe>
