@@ -6,9 +6,47 @@
 </description>
     <link>http://eleanorgraham.com/</link>
     <atom:link href="http://eleanorgraham.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Aug 2016 10:12:58 -0400</pubDate>
-    <lastBuildDate>Fri, 26 Aug 2016 10:12:58 -0400</lastBuildDate>
+    <pubDate>Wed, 05 Oct 2016 15:51:09 -0400</pubDate>
+    <lastBuildDate>Wed, 05 Oct 2016 15:51:09 -0400</lastBuildDate>
     <generator>Jekyll v3.1.3</generator>
+    
+      <item>
+        <title>Gem and the Rock(climb)ers</title>
+        <description>&lt;h1 id=&quot;presenting-hiking-guide&quot;&gt;Presenting: Hiking Guide&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/hit_the_trails.png&quot; alt=&quot;hit the trails!&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I just finished building a Command Line Interface(CLI) Gem called &lt;a href=&quot;https://rubygems.org/gems/hiking_guide&quot;&gt;Hiking Guide&lt;/a&gt;. It grabs information on hiking trails in the US mid-Atlantic off of &lt;a href=&quot;http://www.hikingupward.com/&quot;&gt;HikingUpward&lt;/a&gt; and presents that information to the user on the command line.&lt;/p&gt;
+
+&lt;h2 id=&quot;but-why&quot;&gt;But Why?&lt;/h2&gt;
+&lt;p&gt;I’m working through the Flatiron school’s &lt;a href=&quot;https://learn.co/&quot;&gt;Learn&lt;/a&gt; curriculum, and building a CLI Gem is the final project for the section on Object Oriented Ruby. Coming up with a topic and a site to scrape is all up to us, and I decided to use my beautiful home — the Shenandoah Valley — as inspiration. I don’t really expect anyone else to use my little gem (is anyone besides me really interested in looking up hiking trail details from the command line?). Still, after spending so much time staring at my computer screen, I knew I could really benefit from hitting the trails and that was reason enough for me to proceed!&lt;/p&gt;
+
+&lt;h2 id=&quot;challenges&quot;&gt;Challenges&lt;/h2&gt;
+&lt;p&gt;The web scraping turned out to be much more difficult than I anticipated. HikingUpward is a volunteer organization — this means that the website is maintained by multiple people, and the information presented there is anything but consistent. There were several times that I almost gave up and picked a different topic/project. One particular volunteer in NC added some fancy script to his trail descriptions that required a method all its own to clean up (Hi, Zach! Thanks for the challenge and added hours!) — and I almost decided to just leave NC trails off the list entirely because of this. But I didn’t — I kept at it and figured it out. It’s hard to describe how satisfying that is!&lt;/p&gt;
+
+&lt;p&gt;I also challenged myself to write some tests for the first time, which was great fun. It’s a skill I want to develop, but haven’t had the reason to really push myself. Although I don’t have anything close to full test coverage for this project, the few tests I do have are a good step for me (and it leaves me something to come back to and improve!)&lt;/p&gt;
+
+&lt;h2 id=&quot;good-enough&quot;&gt;Good Enough&lt;/h2&gt;
+&lt;p&gt;One of the things that keeps me interested in coding is the seemingly endless possibilities for improvement. Once I start thinking about a puzzle I have a hard time putting it down; I keep turning it over and over, polishing, refining. So, although I’m calling this gem ‘ready’ I have ideas for things I could improve, should the time and desire present itself. I also have a bundle of ideas for other projects that I feel ready to take on in the wake of this success. It feels good to say that what I’ve created is good enough and release it into the world.&lt;/p&gt;
+
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;http://eleanorgraham.com/images/hiking_guide_walkthrough.mov&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+</description>
+        <pubDate>Wed, 05 Oct 2016 14:28:12 -0400</pubDate>
+        <link>http://eleanorgraham.com/learn-log/gem-and-the-rockclimbers/</link>
+        <guid isPermaLink="true">http://eleanorgraham.com/learn-log/gem-and-the-rockclimbers/</guid>
+        
+        <category>tech</category>
+        
+        <category>learn-log</category>
+        
+        <category>ruby gems</category>
+        
+        <category>hiking</category>
+        
+        
+        <category>learn-log</category>
+        
+      </item>
     
       <item>
         <title>Dry Eloquence</title>
@@ -346,33 +384,6 @@
         
         
         <category>learn-log</category>
-        
-      </item>
-    
-      <item>
-        <title>Making Art</title>
-        <description>&lt;h1&gt;&lt;p&gt;&quot;Painting, Mama!&quot;&lt;/p&gt;&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7142/27041098545_920ddd25f1_k.jpg&quot; alt=&quot;Painting on the window&quot; /&gt;&lt;/p&gt;
-
-&lt;h1&gt;&lt;p&gt;Chamber Music - duet with Bluppo&lt;/p&gt;&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7309/27007842956_9191db0108_k.jpg&quot; alt=&quot;Playing the piano&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 15 May 2016 22:04:19 -0400</pubDate>
-        <link>http://eleanorgraham.com/liberty-house/making-art/</link>
-        <guid isPermaLink="true">http://eleanorgraham.com/liberty-house/making-art/</guid>
-        
-        <category>parenting</category>
-        
-        <category>home</category>
-        
-        <category>art</category>
-        
-        <category>music</category>
-        
-        
-        <category>liberty-house</category>
         
       </item>
     
