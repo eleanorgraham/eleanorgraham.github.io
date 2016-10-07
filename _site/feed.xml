@@ -6,8 +6,8 @@
 </description>
     <link>http://eleanorgraham.com/</link>
     <atom:link href="http://eleanorgraham.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Oct 2016 15:51:09 -0400</pubDate>
-    <lastBuildDate>Wed, 05 Oct 2016 15:51:09 -0400</lastBuildDate>
+    <pubDate>Fri, 07 Oct 2016 10:55:54 -0400</pubDate>
+    <lastBuildDate>Fri, 07 Oct 2016 10:55:54 -0400</lastBuildDate>
     <generator>Jekyll v3.1.3</generator>
     
       <item>
@@ -22,14 +22,12 @@
 &lt;p&gt;I’m working through the Flatiron school’s &lt;a href=&quot;https://learn.co/&quot;&gt;Learn&lt;/a&gt; curriculum, and building a CLI Gem is the final project for the section on Object Oriented Ruby. Coming up with a topic and a site to scrape is all up to us, and I decided to use my beautiful home — the Shenandoah Valley — as inspiration. I don’t really expect anyone else to use my little gem (is anyone besides me really interested in looking up hiking trail details from the command line?). Still, after spending so much time staring at my computer screen, I knew I could really benefit from hitting the trails and that was reason enough for me to proceed!&lt;/p&gt;
 
 &lt;h2 id=&quot;challenges&quot;&gt;Challenges&lt;/h2&gt;
-&lt;p&gt;The web scraping turned out to be much more difficult than I anticipated. HikingUpward is a volunteer organization — this means that the website is maintained by multiple people, and the information presented there is anything but consistent. There were several times that I almost gave up and picked a different topic/project. One particular volunteer in NC added some fancy script to his trail descriptions that required a method all its own to clean up (Hi, Zach! Thanks for the challenge and added hours!) — and I almost decided to just leave NC trails off the list entirely because of this. But I didn’t — I kept at it and figured it out. It’s hard to describe how satisfying that is!&lt;/p&gt;
+&lt;p&gt;The web scraping turned out to be much more difficult than I anticipated. HikingUpward is a volunteer organization — this means that the website is maintained by multiple people, and the information presented there is anything but consistent. There were several times that I almost gave up and picked a different topic/project. One particular volunteer in NC added some fancy script to his trail descriptions that required a method all its own to clean up (Hi, Zach! Thanks for the challenge and added hours!) — and I almost decided to just leave NC trails off the list entirely because of this. But I didn’t — I kept at it and figured it out. It’s hard to describe how satisfying that felt!&lt;/p&gt;
 
 &lt;p&gt;I also challenged myself to write some tests for the first time, which was great fun. It’s a skill I want to develop, but haven’t had the reason to really push myself. Although I don’t have anything close to full test coverage for this project, the few tests I do have are a good step for me (and it leaves me something to come back to and improve!)&lt;/p&gt;
 
 &lt;h2 id=&quot;good-enough&quot;&gt;Good Enough&lt;/h2&gt;
-&lt;p&gt;One of the things that keeps me interested in coding is the seemingly endless possibilities for improvement. Once I start thinking about a puzzle I have a hard time putting it down; I keep turning it over and over, polishing, refining. So, although I’m calling this gem ‘ready’ I have ideas for things I could improve, should the time and desire present itself. I also have a bundle of ideas for other projects that I feel ready to take on in the wake of this success. It feels good to say that what I’ve created is good enough and release it into the world.&lt;/p&gt;
-
-&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;http://eleanorgraham.com/images/hiking_guide_walkthrough.mov&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+&lt;p&gt;One of the things that keeps me interested in coding is the seemingly endless possibility for improvement. Once I start thinking about a puzzle I have a hard time putting it down; I keep turning it over and over, polishing, refining. So, although I’m calling this gem ‘ready’ I have ideas for things I could improve, should the time and desire present itself. I also have a bundle of ideas for other projects that I feel ready to take on in the wake of this success. It feels good to say that what I’ve created is good enough and release it into the world.&lt;/p&gt;
 </description>
         <pubDate>Wed, 05 Oct 2016 14:28:12 -0400</pubDate>
         <link>http://eleanorgraham.com/learn-log/gem-and-the-rockclimbers/</link>
@@ -42,6 +40,40 @@
         <category>ruby gems</category>
         
         <category>hiking</category>
+        
+        
+        <category>learn-log</category>
+        
+      </item>
+    
+      <item>
+        <title>Pairing</title>
+        <description>&lt;h1 id=&quot;two-heads&quot;&gt;Two heads…&lt;/h1&gt;
+&lt;p&gt;A few weeks ago I had my first pair programming experience. Up until that point, I had been working through the &lt;a href=&quot;https://learn.co/&quot;&gt;Learn&lt;/a&gt; curriculum on my own with very little outside interaction. Then I hit one of the final projects in the Object Oriented Ruby section: &lt;a href=&quot;https://github.com/learn-co-students/ttt-with-ai-project-v-000&quot;&gt;Tic Tac Toe with Artificial Intelligence&lt;/a&gt;. The assignment strongly encouraged us to find pairs. I had misgivings about it: How would I find someone right at the same part of the curriculum as me? How would we schedule around my childcare and other work duties? What if I ended up with a terrible partner? It sounded like a lot of extra work…&lt;/p&gt;
+
+&lt;h2 id=&quot;flashback-the-dreaded-group-project&quot;&gt;Flashback: the dreaded group project&lt;/h2&gt;
+&lt;p&gt;Imagine a &lt;a href=&quot;https://en.wikipedia.org/wiki/Lernaean_Hydra&quot;&gt;Hydra&lt;/a&gt;. That’s how I feel about academic group projects. I was a non-traditional student (read: older than my classmates) when I was finishing my Bachelor’s degree. Although I was a musician, specializing in chamber music collaboration, I dreaded group projects in my academic classes. There was so much extra work — scheduling meetings, encouraging the other group members, and then redoing all their work at the last minute to make it presentable (yes, I was that student). Was this pair programming going to be like that?&lt;/p&gt;
+
+&lt;h2 id=&quot;two-heads-are-better-than-one&quot;&gt;Two heads… &lt;em&gt;are better&lt;/em&gt; than one&lt;/h2&gt;
+&lt;p&gt;It wasn’t like that – no Hydras to battle here. Of course, that’s partly due to the fact that I was lucky enough to end up with a fabulous partner (Hi, &lt;a href=&quot;https://github.com/kkterai&quot;&gt;Kenlyn&lt;/a&gt; – you are a delight!). It felt so good working together and talking through the code. Finally I wasn’t alone in front of my screen anymore. Finally there was someone else wrestling with the same puzzles at the same time. Even the act of talking about the questions we faced helped unravel them. Everything about the experience was valuable.&lt;/p&gt;
+
+&lt;p&gt;Not only was the process a great learning experience – we ended up producing a project that was better than either of us would have come up with on our own. As we worked, we pulled the best from each other and refined things further. When we wrapped up I felt energized and excited about future collaborations.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Sep 2016 10:28:12 -0400</pubDate>
+        <link>http://eleanorgraham.com/learn-log/pairing/</link>
+        <guid isPermaLink="true">http://eleanorgraham.com/learn-log/pairing/</guid>
+        
+        <category>tech</category>
+        
+        <category>learn-log</category>
+        
+        <category>pair programming</category>
+        
+        <category>collaboration</category>
+        
+        <category>tic tac toe</category>
+        
+        <category>games</category>
         
         
         <category>learn-log</category>
@@ -348,39 +380,6 @@
         <category>tech</category>
         
         <category>parenting</category>
-        
-        
-        <category>learn-log</category>
-        
-      </item>
-    
-      <item>
-        <title>We&#39;re Live!</title>
-        <description>&lt;h2 id=&quot;commit&quot;&gt;Commit&lt;/h2&gt;
-
-&lt;p&gt;I started playing with Jekyll almost a month ago. Today I decided that it was time to make this experiment public.&lt;/p&gt;
-
-&lt;h2 id=&quot;history&quot;&gt;History&lt;/h2&gt;
-&lt;p&gt;Years ago I had a blogger blog, and then moved on to wordpress with my own url. For a while I had fun with wordpress, modifying templates and playing around with periodic redesigns…&lt;/p&gt;
-
-&lt;p&gt;Then in 2013 I became dissatisfied. I wanted to understand what was going on underneath. I wanted to build my own structures. And I wasn’t too sure about what I wanted public anymore either. So I tore down my wordpress site and put up a single static page. It looked like &lt;a href=&quot;/landing.html&quot;&gt;this&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;My site sat like that until February 2016, when I decided to move it and host my site on Github. It still looked the same, but I knew the difference. I knew that I was getting ready to start experimenting again, and this was the first step.&lt;/p&gt;
-
-&lt;h2 id=&quot;today&quot;&gt;Today&lt;/h2&gt;
-&lt;p&gt;And here we are today. Jekyll up and running. I am buzzing with ideas of how I want to modify and build this space. It feels good and creative.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 02 Jun 2016 09:40:19 -0400</pubDate>
-        <link>http://eleanorgraham.com/learn-log/live/</link>
-        <guid isPermaLink="true">http://eleanorgraham.com/learn-log/live/</guid>
-        
-        <category>learn-log</category>
-        
-        <category>tech</category>
-        
-        <category>Jekyll</category>
-        
-        <category>publishing</category>
         
         
         <category>learn-log</category>
