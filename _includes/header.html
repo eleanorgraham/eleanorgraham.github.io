@@ -1,8 +1,7 @@
 <header class="site-header">
 
   <div class="wrapper">
-
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <a href="/" class="site-title" title="Eleanor wanted to be a volcano when she grew up. Maybe she still does.">Eleanor Graham</a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -14,9 +13,9 @@
       </a>
 
       <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+        {% for link in site.links %}
+          {% if link.position == 'top' %}
+          <a class="page-link" href="{{ link.url }}">{{ link.text }}</a>
           {% endif %}
         {% endfor %}
       </div>
