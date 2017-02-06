@@ -81,6 +81,16 @@ img {
 
 }
 
+.img-half,
+.img-thirds,
+.img-fourths {
+
+  @include breakpoint(gt-mobile) {
+    display: inline-block;
+  }
+
+}
+
 /**
  * Figures
  */

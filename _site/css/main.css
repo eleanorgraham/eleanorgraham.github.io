@@ -30,12 +30,44 @@ ul, ol, dl, figure,
 .highlight {
   margin-bottom: 15px; }
 
+.pull-right {
+  float: right; }
+
+.pull-left {
+  float: left; }
+
 /**
  * Images
  */
 img {
   max-width: 100%;
-  vertical-align: middle; }
+  display: block;
+  margin: 2em auto; }
+
+@media (min-width: 50em) {
+  .img-half {
+    width: 49.6%; } }
+
+@media (min-width: 50em) {
+  .img-thirds {
+    width: 32.89%; } }
+
+.thirds {
+  float: left;
+  margin-bottom: 1em; }
+  @media (min-width: 50em) {
+    .thirds {
+      width: 31.8%; } }
+
+@media (min-width: 50em) {
+  .img-fourths {
+    width: 24.5%; } }
+
+@media (min-width: 50em) {
+  .img-half,
+  .img-thirds,
+  .img-fourths {
+    display: inline-block; } }
 
 /**
  * Figures

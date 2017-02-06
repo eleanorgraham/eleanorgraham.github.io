@@ -5,6 +5,7 @@ permalink: /welcome/
 ---
 
 <img src="https://c5.staticflickr.com/9/8047/28080356404_8915113309_c.jpg" class="img-half" alt="eleanor profile">
+<img src="https://api.mapbox.com/styles/v1/eleanorgraham/ciwzro3vt00032qpbe65lelbz/static/-79.073435,38.149217,12.40,0.00,0.00/600x800?access_token=pk.eyJ1IjoiZWxlYW5vcmdyYWhhbSIsImEiOiJjaW93NTR0ZHIwMWVmdWVtNXl5aTZqcW5tIn0.jSLqL9vRKByhoSH9l8E7qA" class="img-half" alt="staunton va map">
 
 Hello! My name is Eleanor. This is where I write about my current projects and learning process. Follow along for thoughts on tech, diversity, the arts, and family.
 
