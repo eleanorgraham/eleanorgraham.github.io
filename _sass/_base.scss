@@ -37,17 +37,49 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit / 2;
 }
 
+.pull-right {
+  float: right;
+}
 
-
+.pull-left {
+  float: left;
+}
 /**
  * Images
  */
 img {
     max-width: 100%;
-    vertical-align: middle;
+    display: block;
+    margin: 2em auto;
 }
 
+.img-half {
 
+  @include breakpoint(gt-mobile) { width: 49.6%; }
+
+}
+
+.img-thirds {
+
+  @include breakpoint(gt-mobile) {
+    width: 32.89%;
+  }
+
+}
+
+.thirds {
+  float: left;
+  margin-bottom: 1em;
+
+  @include breakpoint(gt-mobile) { width: 31.8%;}
+
+}
+
+.img-fourths {
+
+  @include breakpoint(gt-mobile) { width: 24.5%; }
+
+}
 
 /**
  * Figures

@@ -4,7 +4,7 @@ title: Welcome
 permalink: /welcome/
 ---
 
-<img src="https://c5.staticflickr.com/9/8047/28080356404_8915113309_c.jpg" alt="eleanor profile">
+<img src="https://c5.staticflickr.com/9/8047/28080356404_8915113309_c.jpg" class="img-half" alt="eleanor profile">
 
 Hello! My name is Eleanor. This is where I write about my current projects and learning process. Follow along for thoughts on tech, diversity, the arts, and family.
 
