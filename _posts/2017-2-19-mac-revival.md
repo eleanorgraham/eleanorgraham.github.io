@@ -5,7 +5,7 @@ date:   2017-02-19 20:40:19 -0400
 categories: tools
 tags:
 - tech
-- learning 
+- learning
 - repair
 ---
 Last year I started to learn web development. I was working on an old refurbished iMac and I started to feel its limitations -- should it really take this long to bundle dependencies?

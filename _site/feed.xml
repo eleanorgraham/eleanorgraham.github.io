@@ -6,9 +6,61 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Apr 2017 21:14:21 -0400</pubDate>
-    <lastBuildDate>Thu, 13 Apr 2017 21:14:21 -0400</lastBuildDate>
+    <pubDate>Thu, 13 Apr 2017 22:18:34 -0400</pubDate>
+    <lastBuildDate>Thu, 13 Apr 2017 22:18:34 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Adventures in 3D Printing</title>
+        <description>&lt;p&gt;I’ve been learning how to use the 3D printers at the &lt;a href=&quot;http://www.stauntonmakerspace.com/&quot;&gt;Makerspace&lt;/a&gt;. We’re off to a bit of a rocky start.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://c1.staticflickr.com/4/3938/33865580572_f60c23bb27_z.jpg&quot; alt=&quot;texting with Carmel&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I had such a fast affinity with the &lt;a href=&quot;http://www.lasersaur.com/&quot;&gt;Lasersaur&lt;/a&gt;. I felt like I could make anything after just hours of experimenting with it. The possibilities seemed endless.&lt;/p&gt;
+
+&lt;p&gt;After making a nice cutout of the &lt;a href=&quot;http://www.the-kettle.co/&quot;&gt;Kettle&lt;/a&gt; logo I promised Carmel I would make badges for the &lt;a href=&quot;http://www.shenfringe.com/&quot;&gt;ShenFringe&lt;/a&gt; Audience Choice awards. As Fringe approached and the Lasersaur was out of commission, I figured I could use it as a chance to try my hand at 3D printing.&lt;/p&gt;
+
+&lt;p&gt;I drew up some designs in &lt;a href=&quot;https://www.tinkercad.com/&quot;&gt;Tinkercad&lt;/a&gt; and thought the most difficult part was behind me. After a quick intro to the machines I was off to the races.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://c1.staticflickr.com/3/2939/33179450094_f06d4a626c_z.jpg&quot; alt=&quot;3d printing&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The first test turned out pretty well, but the letters were hard to read in the center, so I decided to try using the printer with a finer grade nozzle.&lt;/p&gt;
+
+&lt;p&gt;Things did not go well.
+&lt;img src=&quot;https://c1.staticflickr.com/3/2935/33892995771_9bd4ecf5b7_z.jpg&quot; alt=&quot;3d printing mess&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://c1.staticflickr.com/3/2835/33637219990_f030a84b0d_z.jpg&quot; alt=&quot;More 3d printing mess&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This turned into hours of tinkering with the machines, tinkering with designs, printing complete failures of tests, printing barely passable versions… I was cursing the very idea of 3D printing, and Fringe was fast approaching.&lt;/p&gt;
+
+&lt;p&gt;Finally I ended up with some degree of success.
+&lt;img src=&quot;https://c1.staticflickr.com/3/2950/33179444484_e247e53927_z.jpg&quot; alt=&quot;Fringe Performace Badge&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And, despite my curses, the bad memories are fading into a funny haze – and I find I’m dreaming about what I’ll design next. Just because I can.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-next-generation-of-makers&quot;&gt;The Next Generation of Makers&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://c1.staticflickr.com/3/2923/33865434942_c90cd8332a_z.jpg&quot; alt=&quot;Daughter at the Makerspace&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Throughout this whole process my daughter has been coming in to the Makerspace with me to hang out as I get prints started or check on how the last one turned out. As with everything at the Makerspace, I love showing her how the machines work and telling her that I’ll teach her how to use it all once she’s old enough.&lt;/p&gt;
+
+&lt;p&gt;It’s amazing to me to think that only a few years ago I had a hard time wrapping my mind around the very concept of 3D printing. And it’s just a normal part of the world that my girl inhabits.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 13 Apr 2017 21:40:19 -0400</pubDate>
+        <link>http://localhost:4000/tools/3d-printing/</link>
+        <guid isPermaLink="true">http://localhost:4000/tools/3d-printing/</guid>
+        
+        <category>tech</category>
+        
+        <category>learning</category>
+        
+        <category>makerspace</category>
+        
+        <category>3D Printing</category>
+        
+        
+        <category>tools</category>
+        
+      </item>
     
       <item>
         <title>Operation Mac Revival</title>
@@ -321,66 +373,6 @@
         <category>women</category>
         
         <category>collaboration</category>
-        
-        
-        <category>learn-log</category>
-        
-      </item>
-    
-      <item>
-        <title>I love Amethyst</title>
-        <description>&lt;h2 id=&quot;adventures-with-an-automatic-tiling-window-manager&quot;&gt;Adventures with an automatic tiling window manager&lt;/h2&gt;
-
-&lt;p&gt;As someone new to web development, I was overwhelmed by the number of windows necessary for basic tasks. All the juggling! Switching back and forth between windows; sizing them so that I could work; placing them where they wouldn’t get lost underneath one another… It felt like an irritating waste of time and energy — lots of clicking and lag — especially when things changed (maybe this window should be bigger now, but maybe that throws off the whole organizing system)!&lt;/p&gt;
-
-&lt;p&gt;Perhaps an ideal workspace would include multiple large monitors so that I could stretch out — but that’s not always an option. Even if I could set up some sprawling workspace at home, I also like to be able to work elsewhere. So. Enter: an automatic tiling window manager. Imagine something that would automatically place your windows on the screen for you, side by side, so that you can see everything. Imagine being able to change layouts, focus, sizes, etc. all with simple key commands. It’s magic.&lt;/p&gt;
-
-&lt;p&gt;I use &lt;a href=&quot;https://github.com/ianyh/Amethyst&quot;&gt;Amethyst&lt;/a&gt;. I haven’t tried any of the other ones because I’m so satisfied with how Amethyst supports my workflow. Let me give you a little tour:&lt;/p&gt;
-
-&lt;p&gt;There are four different layouts:&lt;/p&gt;
-
-&lt;h1 id=&quot;tall&quot;&gt;Tall&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;https://c8.staticflickr.com/8/7338/28134638695_7b50523f55.jpg&quot; alt=&quot;Tall Layout&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;wide&quot;&gt;Wide&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;https://c8.staticflickr.com/8/7546/28134639215_126d1a534a.jpg&quot; alt=&quot;Wide Layout&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;fullscreen&quot;&gt;Fullscreen&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;https://c1.staticflickr.com/8/7401/27853357720_2f64d2c0ef.jpg&quot; alt=&quot;Fullscreen Layout&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;column&quot;&gt;Column&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&quot;https://c4.staticflickr.com/8/7308/28134638355_9beceed7f8.jpg&quot; alt=&quot;Column Layout&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;— all of which you can easily switch between with key commands. When you open a window it automatically swoops into position, arranging itself amongst the others according to the layout you’ve chosen. Shift + Option + Space will cycle you through all possible layouts when you want to switch.&lt;/p&gt;
-
-&lt;p&gt;I tend to spend the most time in the Tall layout. When I’m there sometimes I want my main window at the left to be larger: Shift + Option + l&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://c5.staticflickr.com/8/7318/28030885452_d1c0d8470b.jpg&quot; alt=&quot;Tall-left Layout&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;…and sometimes I want the other windows on the right to be larger: Shift + Option + h&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://c1.staticflickr.com/8/7393/27853358400_af96403ed1.jpg&quot; alt=&quot;Tall-right Layout&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I can also shift my focus with key commands. Say I’m editing my text in sublime text and I want to shift my focus to the browser to refresh and see my work. Shift + Option + k moves focus clockwise and Shift + Option + j moves focus counter clockwise.&lt;/p&gt;
-
-&lt;p&gt;There are many more commands — ones for changing which window is in the main slot, etc. I suggest getting used to a few key commands first and then expanding from there.&lt;/p&gt;
-
-&lt;p&gt;I’m amazed at how easily I have come to rely on this, and how frustrating it feels to be on a machine that doesn’t have it. Having an automatic tiling window manager feels like having a personal assistant dedicated to keeping me in the flow.&lt;/p&gt;
-
-&lt;p&gt;Here’s to learning!&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 06 Jul 2016 10:40:19 -0400</pubDate>
-        <link>http://localhost:4000/learn-log/i-love-amethyst/</link>
-        <guid isPermaLink="true">http://localhost:4000/learn-log/i-love-amethyst/</guid>
-        
-        <category>tech</category>
-        
-        <category>learn-log</category>
-        
-        <category>Amethyst</category>
-        
-        <category>tools</category>
         
         
         <category>learn-log</category>
